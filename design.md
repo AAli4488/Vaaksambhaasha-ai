@@ -771,5 +771,5 @@ That obsession with the real user — not the demo user — is what makes VaakSa
 **Version:** 2.0 — Final Winning Submission
 **Date:** February 2025
 **Hackathon:** AI for Bharat 2025 | Powered by AWS
-**Team:** [Your Team Name] | **Contact:** [Your Email]
+**Contact:** bayeshasiddiqa52@gmail.com
 **GitHub:** [Your Repository Link]
