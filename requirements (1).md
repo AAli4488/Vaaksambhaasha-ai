@@ -312,4 +312,4 @@ VaakSambhaasha exists to fix this — one sign, one voice, one life at a time.
 **Version:** 2.0 — Final Winning Submission
 **Date:** February 2025
 **Hackathon:** AI for Bharat 2025 | Powered by AWS
-**Team:** [Your Team Name] | **Contact:** [Your Email]
+**Contact:** bayeshasiddiqa52@gmail.com
