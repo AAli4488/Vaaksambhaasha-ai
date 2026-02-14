@@ -772,4 +772,4 @@ That obsession with the real user — not the demo user — is what makes VaakSa
 **Date:** February 2025
 **Hackathon:** AI for Bharat 2025 | Powered by AWS
 **Contact:** bayeshasiddiqa52@gmail.com
-**GitHub:** [Your Repository Link]
+**GitHub:** https://github.com/AAli4488/Vaaksambhaasha-ai
